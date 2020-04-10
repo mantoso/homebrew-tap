@@ -1,0 +1,25 @@
+= Mantoso Tap
+
+Mantoso Hombrew Tap and Formulas for macOS.
+
+== Install tap
+
+Install the Homebrew tap to make it easier to install formula.
+
+[source, shell]
+----
+brew tap mantoso/tap
+----
+
+== Install formula
+
+With the tap installed, choose a formula below and install it.
+
+=== sshpass
+
+`sshpass` is a utility designed for running `ssh` using the mode referred to as _keyboard-interactive_ password authentication, but in non-interactive mode. `ssh` uses direct TTY access to make sure that the password is indeed issued by an interactive keyboard user.
+
+[source, shell]
+----
+brew install sshpass
+----
