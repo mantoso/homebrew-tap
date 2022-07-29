@@ -1,0 +1,15 @@
+---
+
+repository:
+  name: homebrew-tap
+  description: Mantoso Homebrew Formula
+  homepage: https://mantoso.com
+  has_wiki: false
+
+labels:
+  - name: bug
+    color: CC0000
+  - name: feature
+    color: 336699
+
+...
